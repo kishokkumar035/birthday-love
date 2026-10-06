@@ -118,7 +118,7 @@ function App() {
   ========================================= */
 
   const handleOpen = () => {
-    if (password !== "Keecha") {
+    if (password !== "keecha") {
       setError("Wrong secret name... try again ❤️");
       return;
     }
